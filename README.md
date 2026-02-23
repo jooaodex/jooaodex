@@ -1,22 +1,27 @@
-👋 Olá, eu sou o João Sousa
+👋 Hi, I'm João Sousa
 
-Sou Software Engineer, atuando com suporte técnico e sistemas, e em constante evolução para desenvolvimento backend.
+I'm a Software Engineer currently working in IT support and systems, with a strong interest in backend development and continuous learning.
 
-🚀 Tecnologias
-- PHP (estudos e projetos práticos)
+I have hands-on experience with system analysis, logic, and internal tools, and I'm actively improving my skills in backend technologies and best practices.
+
+🚀 Technologies & Skills
+- PHP (studies and practical projects)
 - JavaScript
 - C#
 - Git & GitHub
 - Jira
-- Lógica de Programação
+- Programming Logic
+- System Support & Troubleshooting
 
-📂 Projetos em destaque
-- 🔹 **SistemaContaBancaria** – Lógica de operações bancárias em C#
-- 🔹 **JogoDaVelha** – Estruturação de lógica e regras de jogo
-- 🔹 **Api-Amazon** – Consumo e simulação de API
-- 🔹 **PHP-estudos** – Repositório focado em aprendizado contínuo de PHP
+📂 Featured Projects
+- 🔹 SistemaContaBancaria – Banking system logic using C# and OOP concepts  
+- 🔹 JogoDaVelha – Game logic and rule implementation  
+- 🔹 Api-Amazon – API consumption and simulation project  
+- 🔹 PHP-estudos – Repository focused on continuous PHP learning and practice  
 
-🎯 Objetivo
-Aprofundar meus conhecimentos em backend, boas práticas, APIs e arquitetura de sistemas.
+🎯 Goals
+- Deepen my knowledge in backend development
+- Improve skills in APIs, clean code, and system architecture
+- Grow professionally as a backend-focused software engineer
 
-📍 Curitiba - PR  
+📍 Curitiba, Brazil
